@@ -55,13 +55,13 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochanpanchal&show_icons=true&locale=en&layout=compact" alt="lochanpanchal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lochanpanchal&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="lochanpanchal" /></p>
 </div></p>
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lochanpanchal&show_icons=true&locale=en" alt="lochanpanchal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lochanpanchal&show_icons=true&locale=en&theme=gruvbox" alt="lochanpanchal" /></p>
 </div></p>
 <p align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lochanpanchal&" alt="lochanpanchal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lochanpanchal&&theme=gruvbox" alt="lochanpanchal" /></p>
 </div></p>
 
 
