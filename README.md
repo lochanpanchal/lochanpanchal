@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="200vw" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400vw"  />
   <br />
   <br />
   
@@ -30,6 +30,12 @@
 - 📫 How to reach me **lakerajpanchal98@gmail.com**
 
 - 📄 Know about my experiences [Read My CV](https://docs.google.com/document/d/1EYbL8tAbxAAQAmxgFVEwfL-VljkIlsPvhEk99DU17bk/edit?usp=drive_link)
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 🚀💻 Technologies & Tools
 
@@ -76,10 +82,52 @@
 
 <br>
 
+## Experience 🚀
+
+- **Apprentice** at Geekster
+  - During my Full Stack Web Development Training at Geekster, I dove headfirst into a comprehensive curriculum.
+  - Covering Java, DSA, Springboot, OOPS, SQL, GIT, and GITHUB.
+
+## Projects 🔧
+
+### Blogging-Platform API 📝
+
+A robust and scalable backend platform for users to manage and interact with blog posts, comments, and fellow bloggers.
+
+- Implemented security measures, including validations, to ensure application safety.
+- Enabled admins to perform CRUD operations on the Blogger and Blogs.
+- Leveraged JPA with Hibernate to connect to a MySQL database. enabling seamless data interaction.
+- Deployed the application on AWS EC2 for high performance and scalability.
+
+
+**Tech Stack**: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="20" height="20">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="20" height="20">
+
+[Blogging-Platform API](https://github.com/lochanpanchal/Blogging-Platform-API-Springboot-Aws)
+
+### Doctors Appointment 🏥
+
+An application built with Spring Boot for efficient management of patient-doctor interactions.
+
+- Created API endpoints for patient and appointment management
+- Implemented secure patient registration, login, and scheduling
+- Utilized Spring Data JPA with MySQL for seamless database operations
+
+**Tech Stack**: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="20" height="20">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20">
+
+[Doctor Appointment API ](https://github.com/lochanpanchal/Doctor-APP-springboot)
+
+
 
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/ankitSarwar/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/lochanpanchal/count.svg)
